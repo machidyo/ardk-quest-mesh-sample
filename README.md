@@ -1,1 +1,1 @@
-# ardk-quest3-mesh-sample
+# ardk-quest-mesh-sample
